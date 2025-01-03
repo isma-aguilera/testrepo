@@ -1,1 +1,1 @@
-print("Archivo de prueba");
+print("Archivo de prueba")
